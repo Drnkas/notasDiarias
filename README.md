@@ -1,16 +1,8 @@
-# notas_diarias
+# Notas diarias 📝
 
-A new Flutter project.
+This is my Flutter project developed from data manipulation with sqflite
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+The application aims to create notes, edit and delete them, with the possibility of recovering the notes when deleting
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
